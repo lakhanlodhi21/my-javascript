@@ -19,4 +19,4 @@ function smart() {
     }
 
 }
-smart()
+//smart()
