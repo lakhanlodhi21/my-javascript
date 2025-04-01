@@ -1,4 +1,5 @@
 // Windows method 
+// BOM(Browser object model) = intraction with the browser window
 
 function smart() {
 
