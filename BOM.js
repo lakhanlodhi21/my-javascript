@@ -20,3 +20,12 @@ function smart() {
 
 }
 //smart()
+function lakhan() {
+
+    let a = prompt("tell me about your name")
+    let b = confirm("are you mad")
+    
+}
+function like() {
+    alert("Hello Bhai")
+}
