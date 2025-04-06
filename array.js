@@ -30,6 +30,10 @@
 // com.splice(2, 1, "ola")
 // com.push("amazon")
 
+let arr = [4, 3, 6, 7, 8]
+// console.log(arr.sort()) //assending order
+// console.log (arr.reverse()) reverse element //
+
 
 
 
