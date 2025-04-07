@@ -4,8 +4,20 @@
 //html ko java script ke andar access krne ka tarika hai dom
 // dynamic changes krna apne web page pe
 // script ko body tag se pehle use kr lete hai to usme document access nhi hote isliye body ke just upar likhi jaati hai
-let header = Document.getElementById("heading");
-console.log(header) // calling
+// -->> calling css file
+//  Document.getElementById("heading"); -->> \
+// document.getElementsByClassName('text')
+//document.querySelector("#text")
+
+function okk() {
+    let aa = document.querySelector("#text")
+    aa.innerHTML = "you are not lakhan"
+    //document.querySelector("#text").innerHTML="lakhan" // one more way
+    aa.style.color = "pink"
+    aa.style.background = "black"
+    
+
+}
 
 
 
