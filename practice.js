@@ -1,4 +1,4 @@
-function javascript() {
+ {
 
     // question no = 1
     // let age = prompt("what is ur age")
@@ -103,7 +103,12 @@ function javascript() {
 
     // let num = prompt(" enter a number form 1 to 7 ")
     
-    
+    let text = "hyy this is lakhan";
+    // document.write(text.replace("hyy","byy"))
+    // document.write(text.charAt(5))
+    // document.write(text.indexOf("t"))
+    // document.write(text.charCodeAt(5))
+
     
 }
-    javascript()
+   

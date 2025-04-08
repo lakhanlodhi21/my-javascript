@@ -15,6 +15,6 @@ function smarty() {
 }
 smarty() // calling the function
 // calling ke upar depend krta hai ki kon pehle call hua
-// aero function is mostly used in company 
+// arrow function is mostly used in company 
 // var let and const is come in 2015 in ecma6 update
   

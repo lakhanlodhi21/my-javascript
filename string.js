@@ -1,6 +1,6 @@
 
 let a = "This is string 1"
-let b = "This is string 2"
+
 // aishee koi  bhii cheez jo double code ya single code ke andar likhi hoti hai string hoti hai
 // string methods -->>>
 
@@ -18,16 +18,16 @@ let b = "This is string 2"
 // charcodeat -->> ye asqi value batata hai
 
 
- console.log(a.length)
- document.write(a.concat(b)) // 2 string ko jod ke nayi string return krta hai 
+//  console.log(a.length)
+//  document.write(a.concat(b)) // 2 string ko jod ke nayi string return krta hai
 
-document.write("<br>" +a.toUpperCase())
-document.write("<br>" + a.toLocaleLowerCase())
-console.log(b.slice(6,10)) // 2 string ke beech me jo likha hota hai bo return krta hai  
+// document.write("<br>" +a.toUpperCase())
+//document.write("<br>" + a.toLocaleLowerCase())
+// console.log(b.slice(6,10)) // 2 string ke beech me jo likha hota hai bo return krta hai
 
-document.write(a.charAt(5))
-document.write(a.charCodeAt(1))
-console.log(a.trim(8, 10)) // remove extra space
+// document.write(a.charAt(5))
+// document.write(a.charCodeAt(1))
+// console.log(a.trim(8, 10)) // remove extra space
 
 
 

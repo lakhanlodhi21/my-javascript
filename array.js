@@ -9,7 +9,7 @@
 // pop -->> last se remove krega
 // push -->> aakhiri se insert krega element
 // shift -->> aage se element hatayega
-// unshift aage se element lagayega
+// unshift -->> aage se element lagayega
 
 // console.log(fruits[2]);
 // console.log(fruits.length)
@@ -30,9 +30,9 @@
 // com.splice(2, 1, "ola")
 // com.push("amazon")
 
-let arr = [4, 3, 6, 7, 8]
-// console.log(arr.sort()) //assending order
-// console.log (arr.reverse()) reverse element //
+//let arr = [4, 3, 6, 7, 8]
+ //console.log(arr.sort()) //assending order
+ //console.log (arr.reverse()) //reverse element //
 
 
 
