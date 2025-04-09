@@ -103,11 +103,56 @@
 
     // let num = prompt(" enter a number form 1 to 7 ")
     
-    let text = "hyy this is lakhan";
+    // let text = "hyy this is lakhan";
     // document.write(text.replace("hyy","byy"))
     // document.write(text.charAt(5))
     // document.write(text.indexOf("t"))
     // document.write(text.charCodeAt(5))
+    
+    // const text = [3, 7, 9, 1, 2]
+    // console.log(text.sort())
+    // console.log(text.reverse())
+    
+    // let one = confirm("do you want to see the numbers from 1 to 10?")
+
+    // if (one) {
+    //     for (let i = 0; i<=10; i++) {
+    //         alert(i)
+    //     }
+       
+    // }
+    // else {
+    //     alert("you canclled the action using alert")
+    // }
+    
+    // function ok() {
+    //    let a = document.querySelector("#div")
+    //     a.style.background = "green";
+    // }
+    // function ok1() {
+    //     let a = document.querySelector("#div")
+    //     a.style.background = "orange";
+    // }
+    
+    // let a = [-5, 10, 20, -3, 7];
+    // let ap = 0;
+    // for (let i = 0; i < a; i++) {
+    //     if (a[i]>0) {
+    //         ap += a[i];
+    //     }
+        
+    // }
+    
+    // document.write(ap);
+    
+    // let a = "Javascript is fun, but javascript is challenging also"
+    // console.log(a.replaceAll(/javascript/gi,"programing"))
+    
+    
+
+        
+
+    
 
     
 }
