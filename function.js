@@ -33,3 +33,23 @@
 //          console.log(count);
 // }
 
+// --> anonymus function
+
+// let ok = function () {
+//     console.log("anonymus function")
+// }
+// ok()
+
+// // IIFE -->> immedietly invoke function expression <<--//
+//     (function () {
+//     console.log("iife")
+//     })()
+
+// arrow function
+// function keyword ki jagah pe => sign lagete hai
+    
+let text = () => {
+    console.log("arrow function") //special type of anonymus//
+}
+text()
+
