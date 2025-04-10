@@ -1,4 +1,4 @@
- {
+ 
 
     // question no = 1
     // let age = prompt("what is ur age")
@@ -148,12 +148,44 @@
     // let a = "Javascript is fun, but javascript is challenging also"
     // console.log(a.replaceAll(/javascript/gi,"programing"))
     
-    
+    // let one = () => {
+    //     let box1= document.querySelector("#box")
+    //     box1.style.backgroundColor = "green";
+    // }
 
-        
-
+    // let two = () => {
+    //     let a = document.querySelector("#box")
+    //     a.style.backgroundColor = "orange"
+    // }
     
-
+    // let three = () => {
+    //     let a = document.querySelector("#box")
+    //     a.style.backgroundColor = "green"
+    // }
     
-}
-   
+// let box = () => {
+//     let box1 = document.querySelector("#div")
+//     box1.style.background = "green";
+// }
+// let box1 = () => {
+//     let box1 = document.querySelector("#div")
+//     box1.style.background = "orange";
+// }
+// let box2 = () => {
+//     let box1 = document.querySelector("#div")
+//     box1.style.background = "grey";
+// }
+
+// let change = () => {
+//     let box1 = document.querySelector("#box")
+//     box1.src = "./pandey.smartyy.jpg"
+// }
+
+// let change = () => {
+//     let one = document.querySelector("#box")
+//     one.style.backgroundImage = scr= "pandey.smartyy.jpg";
+// }
+
+// let photo = () => {
+//     let photo1 = document.querySelector("#change").src = "./pandey.smartyy.jpg";
+// }

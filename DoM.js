@@ -15,9 +15,11 @@ function okk() {
     //document.querySelector("#text").innerHTML="lakhan" // one more way
     aa.style.color = "pink"
     aa.style.background = "black"
-    
-
 }
+
+// variable bana lia jata hai taaki baar baar queryselector na likhna pade
+
+
 
 
 
