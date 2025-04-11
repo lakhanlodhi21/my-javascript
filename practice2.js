@@ -15,17 +15,29 @@
 // }
 // let fun1 = () => {
 //     let sun = document.querySelector("#hello")
-//     sun.style.display = "block";   
+//     sun.style.display = "block";
 // }
+// count = 0;
+// let incre = () => {
+//     let show = document.querySelector("#show")
+//     count++;
+//     show.innerHTML = count
+    
+// }
+// let decre = () => {
+//     let show = document.querySelector("#show")
+//     count--;
+//     show.innerHTML = count
 
-let incre = () => {
-    let bt = 0;
-    bt++;
-}
-document.getElementById("hello").innerText = bt;
+// }
+//  let res = () => {
+//      let show = document.querySelector("#show")
+//      count = 0;
+//      show.innerHTML = count
+//  }
 
-let incre2 = () => {
-    let btt = bt;
-    btt--;
+let hez = () => {
+    let heu = document.querySelector("#box").value
+    alert(heu)
+    
 }
-document.getElementById("hello").innerText = bt;
