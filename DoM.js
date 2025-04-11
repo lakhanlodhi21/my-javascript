@@ -16,8 +16,9 @@
 //     aa.style.color = "pink"
 //     aa.style.background = "black"
 // }
-
 // variable bana lia jata hai taaki baar baar queryselector na likhna pade
+// Tagname-->> Tagname element ka tag return krta hai matlab tag ka name batata hai
+
 
 
 
