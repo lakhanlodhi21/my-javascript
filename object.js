@@ -18,4 +18,16 @@
 //----------------------->>>>>>>>>>>>>>>>>>>>> WHy use destrucher
 // Makes the code cleaner and easier to read.
 // Allows Quick access to object properties.
+// this.----->>>> jis object ke andar likhte hai bo udhar hee define ho hata hai
+// prototype---------->>>>>>> apne aap me ek method hai jis ke andar kayi saare method and properties hoti hai
+// javascript ke andar arr internaly ek object hai'
+// ham khud ke prototype bhi bana sakte hai 
+
+// spread opreator ----------------->>>>>>>>>>>>>>>>>>>>
+
+//do ya do se jyda object ko jod deta hai 
+// const student1 = { Name: "lakhan", Age: 21, }
+// const student2 = { City: "gurgaon", Email: "yyyyyxx" }
+// const combinedstudent = { ...student1, ...student2 };
+// console.log(combinedstudent) ------------------------------->>>>>>>>>>>>>>>>>>>>>>> Spread operator 
 
