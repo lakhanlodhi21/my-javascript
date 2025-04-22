@@ -27,5 +27,12 @@ let butt = () => {
 }
 let stop = () => {
     clearInterval(inter)
+
+
 }
+
+// math . random number generate krta hai 0 ae 1 ta
+
+
+
 
