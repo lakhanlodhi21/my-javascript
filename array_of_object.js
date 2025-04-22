@@ -49,12 +49,12 @@ let shown = document.querySelector("#show")
 userdata.map((e) => {
     shown.innerHTML += `
     
-    <div>
-    <h1>${e.name} </h1>
-    <h2>${e.age} </h1>
-    <h3>${e.city} </h1>
-    <h4>${e.gender} </h1>
-    </div>
+    <tr>
+    <td>${e.name} </td>
+    <td>${e.age} </td>
+    <td>${e.city} </td>
+    <td>${e.gender} </td>
+    </tr>
     
     
 
