@@ -55,10 +55,9 @@ userdata.map((e) => {
     <td>${e.city} </td>
     <td>${e.gender} </td>
     </tr>
-    
-    
-
     `
 })
+
+
 
     
